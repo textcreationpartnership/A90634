@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning the fitnesse of the posture necessary to be used in taking the bread and wine at the Sacrament. By Edward Peyton, knight and barronet.</title>
+            <author>Peyton, Edward, Sir, 1588?-1657.</author>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90634</idno><idno type="EEBO-CITATION">99871844</idno>
+  <idno type="VID">156468</idno>
+  <idno type="EEBO-PROQUEST">2240947964</idno>
+  
+            <idno type="STC">Wing P1951</idno>
+            <idno type="STC">Thomason E136_10</idno>
+            <idno type="STC">ESTC R22852</idno>
+            <idno type="PROQUEST">99871844</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871844e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156468)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E136[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning the fitnesse of the posture necessary to be used in taking the bread and wine at the Sacrament. By Edward Peyton, knight and barronet.</title>
+                  <author>Peyton, Edward, Sir, 1588?-1657.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lord's Supper --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156468:1"/>
+            <pb facs="tcp:156468:1"/>
+            <p>A DISCOURSE CONCERNING THE Fitnesse of the Posture NECESSARY TO BE USED IN TAKING THE Bread and Wine AT THE SACRAMENT.</p>
+            <p>By <hi>Edward Peyton,</hi> Knight and Barronet.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:156468:2"/>
+            <pb n="1" facs="tcp:156468:2"/>
+            <head>A DISCOVRSE Concerning the Fitnesse of the Posture necessary to be used in taking the Bread and Wine at the Sacrament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough there hath clapsed a long time since your denying me the Sacrament, standing at the time of administring it, affirming that you had taken an Oath not to administer it to any but did kneel, though I did kneel before and after: yet all this time you should (to a man of my fashion) have had the manners, by letter, to have given me satisfaction, being Curate, and your duty: I will not omit mine; you shall have my reason. I did stand with just ground; wherefore I produce this ensuing Discourse to prove, you ought not to have denied me standing, at the time of giving of the Sacrament to me. If you say at the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> you were commanded by the Bishop or his Ordinarie so to doe; I answer, they had no power without the Parliament. But you will say, it is in the common Book of Prayers commanded, which is con<g ref="char:EOLhyphen"/>firmed
+<pb n="2" facs="tcp:156468:3"/>by Parliament. I answer; It is not: for it is not said, you must kneel at the Sacrament, in the Rubrick, but make your Confession humbly kneeling on your knees. But you will say, you have a Canon for it: But I answer, It is not confirmed by Act of Parliament; therefore unlawfull, and cannot be imposed: for the Divines in this time, appointed by the Lords, would have a Rubrick touching the kneeling, which argueth it was not commanded before by Parliament
+<note n="*" place="margin">See the six<g ref="char:EOLhyphen"/>teenth conside<g ref="char:EOLhyphen"/>ration upon the Common-Prayer book.</note>. Wher<g ref="char:EOLhyphen"/>as they say, that every one might kneel, that is (say they) comply, with all humility, with the prayer which the Minister makes, which is the Confession of our sinnes, that I grant; but not at the words of Ad<g ref="char:EOLhyphen"/>ministration, to wit, at the immediate taking of the Bread, and Wine: and the direction before these words was not in the Common Prayer Book of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the sixth, nor Queen <hi>Elizabeth;</hi> but put in since, as Master <hi>White</hi> in his
+<note n="(a)" place="margin">His Speech in Parliament.</note> Speech hath rightly af<g ref="char:EOLhyphen"/>firmed.</p>
+            <p>What would you have me kneel to? If you say, to God, why did not Christ, and his Disciples, when he took, administred, and they received, kneel? If you say, to things administred: I answer, it is a crea<g ref="char:EOLhyphen"/>ture, we ought not to kneel to a creature from the second Commandement. Then you make the things administred, God; if it be to the Minister, it is Ido<g ref="char:EOLhyphen"/>latry:
+<note n="(b)" place="margin">Acts 11.</note> If it be to the Bread and Wine represented, you joyne with the Papists, to make it Christs body, and blood: If you say it is a Prayer, then examine it. Wherefore I will repeat the words: <hi>The body of our Lord Iesus Christ, which was given for thee; preserve thy body and soule to eternall life; take this in remem<g ref="char:EOLhyphen"/>brance
+<pb n="3" facs="tcp:156468:3"/>that Christ died for thee, and feed on him in thy heart by thanksgiving:</hi> the other for the Blood is the same: is this a Prayer?</p>
+            <p>No Administration <hi>quatenus</hi> an Administration is a Prayer; and if I must kneel, why doe you not kneel, if it be a Prayer? But it is not a Prayer, but a good wish, counsell, and direction to the Receiver; for then the words should have beene, <hi>I pray God preserve thy body and soule to eternall life:</hi> you did not desire the people to preserve my body and soule, which is blas<g ref="char:EOLhyphen"/>phemy: before, for preparation, and after for a blessing, I ought necessarily; and if I take the body and blood in remembrance Christ died for me, it is a Meditati<g ref="char:EOLhyphen"/>on, and not properly a Prayer; and after Meditation Prayer is needfull, and not before to perfect Medita<g ref="char:EOLhyphen"/>tion. If it be to Christ, why is the word <hi>Remembrance</hi> put in; I cannot remember a thing present.
+<note n="(c)" place="margin">Pag. 132.</note> My Lord of <hi>York</hi> in his <hi>holy Table,</hi> confesseth the gesture Christ had when he gave the holy Supper, was a Ta<g ref="char:EOLhyphen"/>ble gesture; which is (I say) mathematicall and per<g ref="char:EOLhyphen"/>fect, and admits no alteration, for we ought to follow Christ in all things: for the Scripture saith, he is a perfect patterne, and shepherd of our soules. But (lo<g ref="char:EOLhyphen"/>ving friend) these are but venies, I pray give me leave to play at sharp with you: wherefore, as a Champion, I enter the lists, and desire you friendly to look to your selfe: the first weapon I will encounter you with is the holy Scripture.</p>
+            <p>That gesture is best which is used of the Apostles,
+<note n="(d)" place="margin">Eph. 5.1. 1 Cor. 11. 1 Tim. 16. 2 Thes. 3.7.</note> but the Apostles used this gesture, yea Christ; therefore it is the best gesture: <hi>they sate downe,</hi>
+               <note n="(e)" place="margin">Math. 26.20. Mark 14.18.</note> the word in the originall is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the new Interpreters
+<pb n="4" facs="tcp:156468:4"/>translate it, <hi>occubuit;</hi> the old, <hi>discumbebat,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; the new, <hi>cum Apostoli accubuissent;</hi> the old <hi>illis discumbentibus,</hi>
+               <note place="margin">Luke 22.14.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>discubuit, accubuit,</hi> which trans<g ref="char:EOLhyphen"/>lated is, <hi>sate downe:</hi> and <hi>John</hi> the beloved Disciple of Christ is said, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ac<g ref="char:EOLhyphen"/>cumbens in sinu Iesu, sitting did lean upon the breast of Christ.</hi> This gesture is for feasts and banquets, saith <hi>Tremelius, Ioseph Scaliger,</hi>
+               <note n="(g)" place="margin">
+                  <hi>Emend. temporum.</hi>
+               </note> and <hi>Beza</hi> upon the place; the same with our sitting at supper, when no other Scripture proveth positively other gesture in the Lords Supper, but that which answereth our sitting at feasts; as in the miracle of five loves and two fishes, which was a feast
+<note n="(h)" place="margin">Luke 9.17.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>discubuerant, all sate downe;</hi> it is unlawfull to use other. Sitting is not indifferent, but necessary from the example of Christ, in which gesture we please God, and ought to doubt of kneeling, which is not commanded by God. Of which gesture, saith <hi>Calvin</hi>
+               <note n="(i)" place="margin">
+                  <hi>Iust. l.</hi> 4. <hi>c.</hi> 17 <hi>sect.</hi> 35. at the end of the vers.</note> against the Papists with all their cogitations, they ought not to observe, not to kneel, to adore the Sacrament, who securely may receive the Sacrament without adoration, not kneeling; for the Apostles did not prostrate them<g ref="char:EOLhyphen"/>selves and adore it, but sate downe, took, and eat.
+<note n="(k)" place="margin">
+                  <hi>Bullinger Decad p.</hi> 461. all the section.</note> Who can use a better gesture than Christ the high Priest of the Catholike Church, saith <hi>Bullinger?</hi> Christ used a gesture most necessary for all Churches, saith
+<note n="(l)" place="margin">
+                  <hi>Systema theolog.</hi> pag 465 the end of the verse.</note>
+               <hi>Kikerman:</hi> the reverence of the Sacrament is to be taken from the word of God, saith
+<note n="(m)" place="margin">
+                  <hi>Exam. Con.</hi> part 2 pag. 35.</note>
+               <hi>Chem<g ref="char:EOLhyphen"/>nitius:</hi> kneeling was never used in three hundred yeares after Christ, say the Centuries
+<note n="(n)" place="margin">
+                  <hi>Holian Con.</hi> 4. <hi>l.</hi> 4. <hi>c</hi> 26.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. in the Epilogue to the 4 Centuary</note>
+               <hi>Tertullian</hi> proveth from an antient custome in the Primitive Church,
+<note n="(o)" place="margin">
+                  <hi>De Corona militis.</hi>
+               </note> namely on every Sunday from Easter
+<pb n="5" facs="tcp:156468:4"/>to Whitsuntide none should kneel on the Lords day, which custome hitherto we enjoy, saith <hi>Tertullian.</hi> So is the <hi>Nicene</hi> Councell,
+<note n="(p)" place="margin">Canon 20.</note> that they should stand on the Lords day, and pray to the Lord, rendring their vowes: which Canon taxeth the Montanists
+<note n="(q)" place="margin">Centu. 4. <hi>l.</hi> 2. <hi>c.</hi> 10.</note> of heresie and superstition, which the Fathers would abolish, the yeare 327 saith <hi>Hosiander; Basial</hi> the yeare 386
+<note n="(r)" place="margin">
+                  <hi>Lib. de Sp. sancto.</hi>
+               </note> in whose time he affirmeth and defendeth, it was the custome of the Apostles; and rendreth divers reasons, that they never received, but stood in the Church from Easter to Whitsuntide: now for to think that in three hundred yeares and more they ne<g ref="char:EOLhyphen"/>ver received the Sacrament from Easter to Whitsun<g ref="char:EOLhyphen"/>tide, is absurd, when all Ecclesiasticall Writers are plaine, they received in the Primitive Church every Lords day, and never kneeled at the Sacrament. The yeare 140
+<note n="(s)" place="margin">
+                  <hi>Eusebius</hi> Cron. <hi>l.</hi> 17. <hi>cap. Graci</hi> 19. <hi>Latin.</hi> 18.</note>
+               <hi>Damasus</hi> Bishop of <hi>Antioch</hi> writing to Pope <hi>Xistus</hi> 2, saith in giving thanks they said <hi>Amen,</hi> and stood at the Table, with their hands took the holy bread. You shall finde it in the Translation of <hi>Iohn Iames Grineus,</hi> not in <hi>Iohn Christopher,</hi> which is castra<g ref="char:EOLhyphen"/>ted of the Papists.
+<note n="(t)" place="margin">Cent 3. pag. 133.</note> This custome, say the Centu<g ref="char:EOLhyphen"/>ries, was in use in many Churches. I pray what cor<g ref="char:EOLhyphen"/>respondency or proportion hath kneeling with the Sacrament, either with the end or use of it? Nor con<g ref="char:EOLhyphen"/>curreth it with the intimate intention of the heart; for the end is to conforme us in grace; what conforma<g ref="char:EOLhyphen"/>tion hath kneeling, unlesse to conforme us in Tran<g ref="char:EOLhyphen"/>substantiation, which is heresie by our Church? In the beginning of Queen <hi>Elizabeth</hi> a reason before the Ru<g ref="char:EOLhyphen"/>brick was set downe, that they should not kneel in re<g ref="char:EOLhyphen"/>spect of avoiding the heresie of Transubstantiation,
+<pb n="6" facs="tcp:156468:5"/>and Consubstantiation, which since is put out to sympathize with Papists; and the use is to receive the body and blood of Christ by faith, which is ta<g ref="char:EOLhyphen"/>ken away by kneeling, affirming Christs presence: we beleeve he is in heaven, not bodily on earth: if on earth, his body is a Monster; for in heart reverence to the Sacrament kneeling is adoration, for adoration is in heart and gesture; for the Elements of Bread and Wine represent his Humanity, not his Deity, which makes it an absurdity to kneel to the Huma<g ref="char:EOLhyphen"/>nity, a Creature. Is not this a plaine confirmation of the Papists, and Lutherans: for Christ <hi>fell downe on his face and prayed</hi>
+               <note n="(u)" place="margin">Math. 26.29</note> a gesture only due for Prayer:
+<note n="(x)" place="margin">Mark. 14.35</note>
+               <hi>he fell on the earth and prayed:
+<note n="(y)" place="margin">Luke 22.41.</note> upon his knees and prayed:</hi>
+               <note n="(z)" place="margin">Psal. 95.6.</note> we bend our knees to the Lord after the example of <hi>Elias. Daniel</hi> prayed thrice a day on his knees:
+<note n="(a)" place="margin">Psal. 95.</note>
+               <hi>David</hi> saith, <hi>let us fall downe and kneel to the Lord which made us.</hi> Positively we are bound to pray to God on our knees, and wee are forbidden to kneel in the example of Christ and his Apostles in the Sacrament.</p>
+            <p>
+               <hi>To bend the knee to a Creature,
+<note place="margin">Propos.</note> in divine norship, is Idolatry.</hi>
+            </p>
+            <p>
+               <hi>But to bend the knee at the Sacrament,
+<note place="margin">Assump.</note> is to bend the knee to a Creature;</hi>
+            </p>
+            <p>Ergo,
+<note place="margin">Conclus.</note>
+               <hi>To bend at the Sacrament is Idolatry.</hi>
+            </p>
+            <p>The Proposition is proved
+<note n="(z)" place="margin">Exod. 30.5.</note> from the second Commandement: In which two things are forbidden, to make the Image of any thing in heaven, of the starres; in earth, of men and beasts; under the earth, fishes of the sea: and in the disjunctive bowing to Creatures, Sun, moon, Starrs, Men, Beasts, Vegetables,
+<pb n="7" facs="tcp:156468:5"/>Mineralls, &amp;c. And to kneel to them is equally for<g ref="char:EOLhyphen"/>bidden, as adoration, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of Master <hi>Perkins</hi> is defined,
+<note place="margin">
+                  <hi>(a) Aurea Cale<g ref="char:EOLhyphen"/>na</hi> 2. <hi>Com. pre. hib.</hi> 5.</note> God is worshipped with the intention of the heart: From hence may be gathered (saith hee) That Ceremonies,
+<note place="margin">Col. 2.23. 1 Sam. 13.9, 10 13.</note> and bending the knee at the Sacra<g ref="char:EOLhyphen"/>ment is to worship God otherwise than hee hath commanded; and therefore it is Idolatry: So that to reverence the Sacrament, which is a Creature, is for<g ref="char:EOLhyphen"/>bidden. <hi>Argum.</hi> 2.
+<note n="(b)" place="margin">
+                  <hi>Ibid. Pet.</hi> 2. <hi>com. prohib.</hi> 8.</note> Corruptions saith <hi>(Perkins)</hi> and humane Traditions are forbidden; <hi>But bending the knees at the Sacrament, &amp;c.</hi> is a humane Tradition, proved before out of divers Authors; <hi>Ergo,</hi> Bending the knee at the Sacrament is forbidden. Also saith <hi>Perkins,</hi>
+               <note n="(c)" place="margin">
+                  <hi>Ibid. pro<g ref="char:EOLhyphen"/>hib.</hi> 8. <hi>praecept.</hi> 2.</note> The worship of God is polluted when any thing is added to the Scripture or diminished. Christ used in the Sacrament the gesture of a Ban<g ref="char:EOLhyphen"/>quet, not that of Adoration and prayer: and so wee frame our Conclusion implicitly, from the perfect ex<g ref="char:EOLhyphen"/>ample of Christ.</p>
+            <p>And as for the Assumption (they say) they doe re<g ref="char:EOLhyphen"/>verence the Actions of the Sacrament, not the Sacra<g ref="char:EOLhyphen"/>ment it selfe.</p>
+            <p>To reverence <hi>religiously</hi> the Sacrament, the things belonging thereto, or the actions, more than we ought, is Idolatry; But to bend the knee at the acti<g ref="char:EOLhyphen"/>ons, or to the things in the Sacraments, or at the Sa<g ref="char:EOLhyphen"/>craments, religiously, is to reverence the actions, or the Sacraments, &amp;c. more than wee ought; <hi>Ergo,</hi> Re<g ref="char:EOLhyphen"/>ligiously to reverence the Sacraments, the things in the Sacraments, or the actions, more than wee ought, is Idolatry.</p>
+            <p>Wee will fortifie the major from Mr. <hi>Perkins,</hi>
+               <pb n="8" facs="tcp:156468:6"/>
+               <note n="(d)" place="margin">
+                  <hi>Fraecept: probib.</hi> 9.</note> who saith, A religious reverence of the Creature is forbidden in the second Commandement, because it is greater than God commands.</p>
+            <p>I will strengthen the minor; for bending the knee in the Sacrament is a more humble gesture than Christ used or his Apostles: For it is an assured truth, If the Apostles did not bend the knee, Christ being pre<g ref="char:EOLhyphen"/>sent, much lesse when Christ is absent: we ought not to bend the knee unlesse wee will hold with the Pa<g ref="char:EOLhyphen"/>pists that Christ is corporally present; for no body can be present in so many places, where the Sacrament is administred.
+<note n="(*)" place="margin">Acts 10.25. <hi>Tremel. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi>
+               </note> The bending to the actions is unlaw<g ref="char:EOLhyphen"/>full, the intention of adoration being wanting: <hi>(Tre<g ref="char:EOLhyphen"/>melius.) Cornelius</hi> fell at <hi>Peters</hi> feet and worshipped, <hi>(Beza.)</hi>
+               <note n="(a)" place="margin">
+                  <hi>Annot.</hi> 26. on the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Acts 10.</note> Falling at the feet of <hi>Peter,</hi> worshipped: From whence hee inferrs, (in the same place) That religious bending the knee is onely to God; to give it to civill Ministers of the Word is dangerous. Did <hi>Cornelius</hi> think the religious worship that was due to God might bee transferred to <hi>Peter?</hi> no truly; but strook with so great a reverence of the servant of God, hee kept no mean; For it is not easie to hold a mo<g ref="char:EOLhyphen"/>deration in reverence and adoration, <hi>Beza.
+<note n="(b)" place="margin">Apoc. 13.19. <hi>Bez. inter.</hi>
+                  </note> Iohannes procidit ante pedes Angeli ut adoraret eum:</hi> the old In<g ref="char:EOLhyphen"/>terpretation, <hi>Cecidit ante pedes ut adoraret:
+<note n="a" place="margin">
+                     <hi>Annot. c.</hi> 11. <hi>v.</hi> 10.</note> Iunius</hi> on this Verse saith, Wee must abstaine from divine worship to creatures; of which religious kneeling is one.
+<note n="(c)" place="margin">Apoc. 22.8, 9.</note>
+               <hi>Iohn</hi> fell down and worshipped; <hi>See thou doe it not</hi> (saith the Angell;) <hi>I am thy fellow servant, worship God.</hi> Therefore to kneel down to the action at the Sacrament, which is divine honour, and a Crea<g ref="char:EOLhyphen"/>ture, is forbidden: For if wee doe it to Christ as a
+<pb n="9" facs="tcp:156468:6"/>Creature and Man, it is unlawfull; for the Papists de<g ref="char:EOLhyphen"/>ny the Deity is bread or blood, Christ being really there; which heresie wee confirme by our kneeling to it. Wee will use the Arguments of the Papists to prove this Truth; namely, what their Champion <hi>Bel<g ref="char:EOLhyphen"/>larmine</hi> is wont to maintain;
+<note n="(d)" place="margin">
+                  <hi>De<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uchar. l.</hi> 2. <hi>c.</hi> 18. <hi>p.</hi> 619.</note>
+               <hi>If kneeling at the Sacrament may be without sin, as the</hi> Calvinists <hi>say, then it is not Idolatry to kneel before Images:</hi> and the obser<g ref="char:EOLhyphen"/>vation is not to be omitted. And Christ
+<note n="(b)" place="margin">Luke 22.19</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, when he brake the Bread, gave thanks, and gave it to his Disciples: which of the Fathers is
+<note n="(i)" place="margin">
+                  <hi>Cent.</hi> 2.99.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Sacrament called from giving of thanks, and it is improper to give thanks kneeling; for that is not the fittest gesture. I will shew it from the example of <hi>Solomon</hi>
+               <note n="(k)" place="margin">Kings 8.54, 55.</note> who ending his Prayers, stood up and gave thanks, because God heard his prayers kneeling is inconvenient, therefore it ought to be abolished. Wherefore S. <hi>Aug.</hi> saith,
+<note n="(l)" place="margin">
+                  <hi>Aug. Ep.</hi> 119</note> although Ceremonies have not open evill in themselves, notwithstanding because they are inconvenient to burthen the Church with humane presumptions, if they have not authori<g ref="char:EOLhyphen"/>ty from holy Scripture, nor from Generall Councels, nor from the Universall Church, but from a doubtfull beginning, without all doubt they are to be cut off.</p>
+            <p>But some may object from
+<note n="(m)" place="margin">
+                  <hi>Ibidem</hi>
+               </note>
+               <hi>Augustine,</hi> a muta<g ref="char:EOLhyphen"/>tion in the Church is dangerous, which causeth an unfruitfull trouble. I answer them with <hi>Augustine</hi> and
+<note n="(n)" place="margin">
+                  <hi>Ibidem</hi> 1 Sam. 14.</note>
+               <hi>Peter Martyr,</hi> When Ceremonies cease to bee profitable without doubt they are to be removed.</p>
+            <p>Kneeling, because it is used of the Papists to adore Bread and Wine, is necessarily to be held unprofitable:
+<note n="(m)" place="margin">
+                  <hi>Ep.</hi> 86. <hi>d Causel.</hi>
+               </note> For <hi>Augustine</hi> holdeth Fasting indifferent on the
+<pb n="10" facs="tcp:156468:7"/>Sabbath, yet by reason of circumstance it may have some scandall, as of the Fast of the <hi>Manichees,</hi> hee holdeth it unlawfull. Besides, Bowing towards the East was long in use among the Fathers, yet <hi>Leo</hi>
+               <note n="(n)" place="margin">
+                  <hi>Leo. serv. de nold. Dom.</hi>
+               </note> took away this antient Custome, because it was observed of Pagans in adoration of the Sun, and did obdurate them. For although it be supposed, Kneeling might be used in the beginning of Queen <hi>Elizabeths</hi> time, to reconcile us to the Papists, or rather to draw them to us; yet now it is not good, in this light of the Gospel, to harden the Papists hearts: For
+<note n="(o)" place="margin">
+                  <hi>Epist.</hi> 18.</note> S. <hi>Augustine</hi> saith, What is untowardly done in the wor<g ref="char:EOLhyphen"/>ship of God, ought to be amended, or not to be com<g ref="char:EOLhyphen"/>manded. Wherefore I conclude with the before <hi>Sylo<g ref="char:EOLhyphen"/>gisme,</hi> When kneeling at the Sacrament is neither in the word of God comprehended, nor positively com<g ref="char:EOLhyphen"/>manded, nor by consequence gathered, nor of Gene<g ref="char:EOLhyphen"/>rall Councells commanded, nor of the Catholike Church, (but of the Carolicall) accustomed, yea of the Reformed Churches inhibited, or not used, except ours; and when it is a scandall and hardening to the Papists, and against the Nicene Councell in the Pri<g ref="char:EOLhyphen"/>mitive Church, for these reasons deservedly it ought to be abolished in our Church: and you ought not to hinder me standing, which may be with as much reverence as kneeling.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
